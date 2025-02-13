@@ -11,4 +11,5 @@ a {
 }
 
 button {
-  @apply bg-accent text-white px-4 py-2 rounded hover:bg-purple-700
+  @apply bg-accent text-white px-4 py-2 rounded hover:bg-purple-700;
+}
